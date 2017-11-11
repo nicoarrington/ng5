@@ -26,6 +26,8 @@ THE SOFTWARE.
 
 @angular/animations@4.4.6 MIT
 
+@angular/forms@4.4.6 MIT
+
 zone.js@0.8.18 MIT
 The MIT License
 
